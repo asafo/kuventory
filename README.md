@@ -1,2 +1,2 @@
 # kuventory
-KubeVirt dynamic inventory script and auto-provisioner for ansible
+KubeVirt dynamic inventory script and auto-provisioner for Ansible
